@@ -1,0 +1,8 @@
+S Copernicus
+I Copernicus 1473
+I Newton 1643
+I Heisenberg 1901
+S Copernicus
+S Newton
+S Heisenberg
+I Newton 1643
